@@ -1,7 +1,7 @@
 # 🔌 Cloud-Based Lab Emulator (CBLE)
 
 [![License](https://img.shields.io/github/license/cble-platform/.github)](./LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/cble-platform.svg)](https://github.com/cble-plaftform)
+[![GitHub stars](https://img.shields.io/github/stars/cble-platform.svg)](https://github.com/cble-platform)
 [![GitHub Discussions](https://img.shields.io/github/discussions/cble-platform/.github)](https://github.com/orgs/cble-platform/discussions)
 [![](https://visitcount.itsvg.in/api?id=cble-platform&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
