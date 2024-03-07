@@ -30,29 +30,7 @@ CBLE is designed to provide a seamless, self-service virtual lab environment tha
 
 ## 📦 Getting Started
 
-> Coming Soon
-
-<!--
-
-To get started with this project, follow these steps:
-
-1. Clone the repository:
-
-   ```sh
-   git clone https://github.com/YourOrganization/YourProject.git
-   Install the required dependencies:
-   ```
-
-   sh
-   Copy code
-
-2. Install the required dependencies:
-
-  Instructions for installing dependencies (if any)
-
-  [Additional setup steps, if applicable]
-
--->
+See our [Getting Started Docs](https://cble-platform.github.io/docs/latest/getting-started/quick-start/) to get up and running with CBLE!
 
 ## 📄 Documentation
 
