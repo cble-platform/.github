@@ -5,7 +5,7 @@
 [![GitHub Discussions](https://img.shields.io/github/discussions/cble-platform/.github)](https://github.com/orgs/cble-platform/discussions)
 [![](https://visitcount.itsvg.in/api?id=cble-platform&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-👉 Live Demo (TBD) | 📖 [Documentation](https://cble-platform.github.io/docs/)
+👉 Live Demo (TBD) | 📖 [Documentation](https://docs.cble.io/latest/)
 
 ## Overview
 
@@ -30,11 +30,11 @@ CBLE is designed to provide a seamless, self-service virtual lab environment tha
 
 ## 📦 Getting Started
 
-See our [Getting Started Docs](https://cble-platform.github.io/docs/latest/getting-started/quick-start/) to get up and running with CBLE!
+See our [Getting Started Docs](https://docs.cble.io/latest/getting-started/quick-start/) to get up and running with CBLE!
 
 ## 📄 Documentation
 
-Detailed documentation can be found [here](https://cble-platform.github.io/docs/).
+Detailed documentation can be found [here](https://docs.cble.io/latest/).
 
 ## 🤝 Contributing
 
